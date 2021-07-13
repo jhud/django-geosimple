@@ -1,6 +1,7 @@
 django-geosimple [![travis][travis-image]][travis-url] [![pypi][pypi-image]][pypi-url]
 ===================================
 > Basic geospatial helpers for Django
+> Original project was archived and is not being maintained, so this fork is updated to work on Django >= 3.2 Python >= 3.9
 
 ### Supports
 
